@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/products-filter/static/css/main.5e260f6a.css",
+    "main.js": "/products-filter/static/js/main.3d3549f3.js",
+    "static/js/787.d0acb16e.chunk.js": "/products-filter/static/js/787.d0acb16e.chunk.js",
+    "index.html": "/products-filter/index.html",
+    "main.5e260f6a.css.map": "/products-filter/static/css/main.5e260f6a.css.map",
+    "main.3d3549f3.js.map": "/products-filter/static/js/main.3d3549f3.js.map",
+    "787.d0acb16e.chunk.js.map": "/products-filter/static/js/787.d0acb16e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e260f6a.css",
+    "static/js/main.3d3549f3.js"
+  ]
+}
